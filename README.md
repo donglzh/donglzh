@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-🔭 Focus on: C#, .NET, Golang
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donglzh)](https://github.com/anuraghazra/github-readme-stats)
+🔭 Focus on: C#, .NET, Go
